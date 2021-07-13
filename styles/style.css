@@ -198,7 +198,7 @@ nav{
     nav{
         flex-direction: column;
         height: 100%; 
-         /* width: 650px; */
+         width: 100vw;
     }
     
     
